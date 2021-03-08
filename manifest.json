@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-xiv-helper-plugin",
+  "name": "XIV Helper toolkit",
+  "version": "0.0.1",
+  "description": "Small set of tools to automate mundane tasks related to XIV.",
+  "author": "Hecarrah",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
